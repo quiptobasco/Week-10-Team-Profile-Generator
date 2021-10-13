@@ -16,10 +16,10 @@ A command line team profile generator using the answers to the prompted question
 ![screenshot](./assets/images/screenshot.png)
 
 ## Installation
-npm i
+`npm i`
 
 ## Usage
-node script.js
+`node script.js`
 
 ## License 
 Licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
