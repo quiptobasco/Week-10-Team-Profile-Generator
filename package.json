@@ -1,0 +1,30 @@
+{
+  "name": "Week-10-Team-Profile-Generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "employee.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "inquirer-loop": "^0.3.0"
+  },
+  "devDependencies": {
+    "jest": "^27.2.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quiptobasco/Week-10-Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quiptobasco/Week-10-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/quiptobasco/Week-10-Team-Profile-Generator#readme"
+}
