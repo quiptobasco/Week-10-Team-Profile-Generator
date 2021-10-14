@@ -10,7 +10,9 @@
 - [License](#license)
 
 ## Description
-A command line team profile generator using the answers to the prompted questions to generate HTML that displays employee details and information. 
+A command line team profile generator using the answers to the prompted questions to generate HTML that displays employee details and information.
+
+[Video on how to use the application](https://watch.screencastify.com/v/yoN75P7sNL9wJF4w1AVw).
 
 ## Screenshots
 ![screenshot](./assets/images/screenshot.png)
